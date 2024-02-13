@@ -1,0 +1,13 @@
+GET /one HTTP/1.0
+Connection:Keep-alive
+
+gET /two HTTP/1.0
+Connection: keep-alive
+
+GET /three HTTP/1.0
+
+Shoot
+Shoot
+
+GET /four HTTP/1.0
+

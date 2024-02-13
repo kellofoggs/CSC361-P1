@@ -1,0 +1,5 @@
+GET /small.html HTTP/1.0
+Connection: keep-alive
+
+GET /large.html HTTP/1.0
+

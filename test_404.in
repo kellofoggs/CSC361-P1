@@ -1,0 +1,6 @@
+GET /notfound1.html HTTP/1.0
+Connection: keep-alive
+
+GET /notfound2.html HTTP/1.0
+Connection: close
+

@@ -1,0 +1,49 @@
+HTTP/1.0 200 OK
+Connection: keep-alive
+
+<span> Small HTML file </span>
+HTTP/1.0 200 OK
+Connection: close
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Zen of Python</title>
+</head>
+<body>
+<h2>The Zen of Python, by Tim Peters</h2>
+<pre>
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+</pre>
+<!--
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempus quam pellentesque nec nam. Dui faucibus in ornare quam. Erat nam at lectus urna duis convallis convallis. Ut faucibus pulvinar elementum integer. Volutpat ac tincidunt vitae semper quis lectus nulla at. Netus et malesuada fames ac. Elementum curabitur vitae nunc sed velit dignissim sodales ut. Ut venenatis tellus in metus vulputate. Pulvinar neque laoreet suspendisse interdum consectetur libero id.
+
+Amet est placerat in egestas erat. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque. In nisl nisi scelerisque eu ultrices vitae auctor eu. Porttitor massa id neque aliquam vestibulum. Sit amet venenatis urna cursus eget nunc scelerisque. Blandit massa enim nec dui nunc mattis enim ut. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Amet luctus venenatis lectus magna fringilla urna. Varius morbi enim nunc faucibus a pellentesque sit. Quis eleifend quam adipiscing vitae proin sagittis. Aliquam faucibus purus in massa tempor nec feugiat nisl. Diam phasellus vestibulum lorem sed risus ultricies tristique. Semper quis lectus nulla at volutpat diam ut venenatis tellus. Fermentum odio eu feugiat pretium nibh ipsum. Urna duis convallis convallis tellus id interdum velit laoreet. Scelerisque viverra mauris in aliquam sem fringilla ut morbi tincidunt. Diam phasellus vestibulum lorem sed risus. Posuere ac ut consequat semper viverra nam. Nisl vel pretium lectus quam id leo in vitae.
+
+Pulvinar neque laoreet suspendisse interdum consectetur. Facilisis leo vel fringilla est ullamcorper eget nulla. Quam quisque id diam vel. Quis eleifend quam adipiscing vitae proin sagittis. Vitae congue eu consequat ac felis donec. Mattis rhoncus urna neque viverra justo nec. Aenean sed adipiscing diam donec adipiscing tristique risus. Aliquam sem fringilla ut morbi. Pulvinar etiam non quam lacus. Elementum curabitur vitae nunc sed. Urna id volutpat lacus laoreet non curabitur. Leo vel fringilla est ullamcorper eget nulla facilisi. Urna condimentum mattis pellentesque id nibh tortor id aliquet. Nunc sed blandit libero volutpat. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Diam sit amet nisl suscipit. Vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Nunc eget lorem dolor sed viverra ipsum.
+
+Tellus mauris a diam maecenas sed enim ut sem. Vitae purus faucibus ornare suspendisse sed. In nulla posuere sollicitudin aliquam ultrices sagittis orci a. Hendrerit gravida rutrum quisque non tellus orci ac auctor augue. Amet venenatis urna cursus eget. Tortor dignissim convallis aenean et tortor at risus viverra. Vitae nunc sed velit dignissim sodales ut. Scelerisque purus semper eget duis at tellus at urna condimentum. Turpis massa tincidunt dui ut ornare lectus. Tellus molestie nunc non blandit massa enim nec dui. Ut faucibus pulvinar elementum integer enim neque. Phasellus vestibulum lorem sed risus ultricies tristique. Enim nunc faucibus a pellentesque sit amet porttitor. Praesent tristique magna sit amet purus gravida quis blandit turpis. Cursus sit amet dictum sit amet justo donec. Nunc sed velit dignissim sodales ut eu sem. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus a.
+
+At urna condimentum mattis pellentesque id. Placerat orci nulla pellentesque dignissim. Tellus mauris a diam maecenas sed enim ut sem viverra. Aliquam faucibus purus in massa tempor. Tellus id interdum velit laoreet id. Nulla at volutpat diam ut. Donec enim diam vulputate ut pharetra sit amet aliquam id. Massa tempor nec feugiat nisl pretium fusce id velit ut. Et malesuada fames ac turpis egestas integer eget aliquet. Euismod nisi porta lorem mollis aliquam ut porttitor leo a. Erat nam at lectus urna duis convallis convallis tellus. Erat imperdiet sed euismod nisi porta lorem mollis. Dictumst vestibulum rhoncus est pellentesque. Sed egestas egestas fringilla phasellus faucibus scelerisque. Id diam vel quam elementum pulvinar etiam non quam lacus. Adipiscing elit ut aliquam purus sit. Eget nulla facilisi etiam dignissim diam quis enim. Sed ullamcorper morbi tincidunt ornare massa.
+-->
+</body>
+</html>

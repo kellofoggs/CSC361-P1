@@ -1,0 +1,14 @@
+
+
+GET /  HTTP/1.0 
+Connection: keep-alive
+ 
+GET /hello.html HTTP/1.0 
+Connection: keep-alive 
+
+get /hello.html http/1.0 
+Connection: keep-alive 
+
+GET /notfound HTTP/1.0 
+Connection: keep-alive 
+
